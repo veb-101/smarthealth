@@ -1,0 +1,70 @@
+[13-Feb-2018 06:43:19 UTC] PHP Warning:  mysqli_query(): Empty query in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 17
+[13-Feb-2018 06:43:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 19
+[13-Feb-2018 06:43:21 UTC] PHP Warning:  mysqli_query(): Empty query in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 17
+[13-Feb-2018 06:43:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 19
+[13-Feb-2018 06:43:22 UTC] PHP Warning:  mysqli_query(): Empty query in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 17
+[13-Feb-2018 06:43:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 19
+[13-Feb-2018 06:43:22 UTC] PHP Warning:  mysqli_query(): Empty query in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 17
+[13-Feb-2018 06:43:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 19
+[13-Feb-2018 06:43:22 UTC] PHP Warning:  mysqli_query(): Empty query in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 17
+[13-Feb-2018 06:43:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 19
+[13-Feb-2018 06:43:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 17
+[13-Feb-2018 06:43:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 19
+[13-Feb-2018 06:43:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 17
+[13-Feb-2018 06:43:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 19
+[13-Feb-2018 06:43:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 17
+[13-Feb-2018 06:43:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 19
+[13-Feb-2018 06:46:10 UTC] PHP Warning:  mysqli_query(): Empty query in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 27
+[13-Feb-2018 06:46:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:46:11 UTC] PHP Warning:  mysqli_query(): Empty query in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 27
+[13-Feb-2018 06:46:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:46:12 UTC] PHP Warning:  mysqli_query(): Empty query in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 27
+[13-Feb-2018 06:46:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:46:13 UTC] PHP Warning:  mysqli_query(): Empty query in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 27
+[13-Feb-2018 06:46:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:47:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:47:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:52:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:52:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:52:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:52:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:52:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:52:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:52:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:52:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:52:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:52:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:52:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:52:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:52:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:52:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:52:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 06:52:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getViewdisease.php on line 29
+[13-Feb-2018 10:10:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 38
+[13-Feb-2018 10:10:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 38
+[13-Feb-2018 10:11:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 38
+[13-Feb-2018 10:14:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 38
+[14-Feb-2018 08:48:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getPDateHistory.php on line 16
+[14-Feb-2018 08:48:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getPDateHistory.php on line 16
+[14-Feb-2018 09:10:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getPDateHistory.php on line 16
+[14-Feb-2018 09:11:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getPDateHistory.php on line 16
+[14-Feb-2018 11:00:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
+[14-Feb-2018 11:01:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
+[14-Feb-2018 11:02:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
+[14-Feb-2018 11:04:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
+[14-Feb-2018 11:05:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
+[14-Feb-2018 11:06:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
+[14-Feb-2018 11:07:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
+[14-Feb-2018 11:07:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
+[14-Feb-2018 11:08:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
+[14-Feb-2018 11:14:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
+[14-Feb-2018 11:17:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
+[14-Feb-2018 11:17:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
+[14-Feb-2018 11:19:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
+[14-Feb-2018 11:19:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
+[14-Feb-2018 11:23:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
+[14-Feb-2018 11:23:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
+[14-Feb-2018 11:25:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
+[14-Feb-2018 11:25:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
+[14-Feb-2018 11:26:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
+[14-Feb-2018 11:26:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/proitcec/public_html/sameen/SHC/app/getBookingDate.php on line 16
